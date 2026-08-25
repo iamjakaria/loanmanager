@@ -1,0 +1,6 @@
+{
+  "name": "Loan Manager",
+  "description": "Mobile responsive loan manager app for tracking borrower loans, repayment status, subtotals, and seamless JSON import/export with offline Room database support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

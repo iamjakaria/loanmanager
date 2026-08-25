@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21 to 87 on both X and Y) -->
+    <!-- Card / Document base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,26 C30.24,26 28,28.24 28,31 L28,77 C28,79.76 30.24,82 33,82 L75,82 C77.76,82 80,79.76 80,77 L80,31 C80,28.24 77.76,26 75,26 Z" />
+    <!-- Header banner in card -->
+    <path
+        android:fillColor="#EDE9FE"
+        android:pathData="M33,26 L75,26 C77.76,26 80,28.24 80,31 L80,42 L28,42 L28,31 C28,28.24 30.24,26 33,26 Z" />
+    <!-- Currency / Taka symbol stylization or Coin -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M54,49 C46.82,49 41,54.82 41,62 C41,69.18 46.82,75 54,75 C61.18,75 67,69.18 67,62 C67,54.82 61.18,49 54,49 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,54 L56,54 L56,57 L58,57 C59.1,57 60,57.9 60,59 L60,61 C60,62.1 59.1,63 58,63 L53,63 L53,66 L60,66 L60,69 L56,69 L56,71 L52,71 L52,68 L50,68 C48.9,68 48,67.1 48,66 L48,64 C48,62.9 48.9,62 50,62 L55,62 L55,59 L48,59 L48,56 L52,56 Z" />
+    <!-- Header line decorations -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M34,34 L54,34 C54.55,34 55,34.45 55,35 C55,35.55 54.55,36 54,36 L34,36 C33.45,36 33,35.55 33,35 C33,34.45 33.45,34 34,34 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M69,32 C67.34,32 66,33.34 66,35 C66,36.66 67.34,38 69,38 C70.66,38 72,36.66 72,35 C72,33.34 70.66,32 69,32 Z" />
+</vector>

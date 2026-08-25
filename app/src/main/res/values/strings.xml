@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Loan Manager</string>
+    <string name="add_loan">Add Loan</string>
+    <string name="edit_loan">Edit Loan</string>
+    <string name="export_data">Export</string>
+    <string name="import_data">Import</string>
+    <string name="borrower_name">Name</string>
+    <string name="loan_date">Date</string>
+    <string name="loan_amount">Amount</string>
+    <string name="loan_status">Status</string>
+    <string name="repayment_date">Repayment Date</string>
+    <string name="status_repaid">Repaid</string>
+    <string name="status_not_paid">Not Paid</string>
+    <string name="actions">Actions</string>
+    <string name="total">Total</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="update_entry">Update Entry</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="delete_confirm_title">Delete Record?</string>
+    <string name="delete_confirm_msg">Are you sure you want to delete this loan record?</string>
+    <string name="no_loans_found">No loan records found.</string>
+</resources>
